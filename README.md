@@ -4,34 +4,34 @@ This wiki is a compilation of in-world maps, writings, and images, as well as me
 index below.
 
 ## Realm Background
-- [Meria](/wiki/meria)
-- [Merian Empire](/wiki/merian_empire)
-- [Ka-Rov](/wiki/ka-rov)
-- [Calendar](/wiki/calendar)
+- [Meria](/wiki/meria.md)
+- [Merian Empire](/wiki/merian_empire.md)
+- [Ka-Rov](/wiki/ka-rov.md)
+- [Calendar](/wiki/calendar.md)
 
 ## Geography
-- [Tsovapnya](/wiki/tsovapnya)
-- [Maori](/wiki/maori)
-- [The Coven](/wiki/the_coven)
-  - [Yari](/wiki/yari)
-  - [Mari](/wiki/mari)
-- [Al-Bhari](/wiki/al-bhari)
-- [Sud](/wiki/sud)
-- [Ariwan Peninsula](/wiki/ariwan_peninsula)
-  - [Argos](/wiki/argos)
-  - [Miraan](/wiki/miraan)
-  - [Ariwa](/wiki/ariwa)
+- [Tsovapnya](/wiki/tsovapnya.md)
+- [Maori](/wiki/maori.md)
+- [The Coven](/wiki/the_coven.md)
+  - [Yari](/wiki/yari.md)
+  - [Mari](/wiki/mari.md)
+- [Al-Bhari](/wiki/al-bhari.md)
+- [Sud](/wiki/sud.md)
+- [Ariwan Peninsula](/wiki/ariwan_peninsula.md)
+  - [Argos](/wiki/argos.md)
+  - [Miraan](/wiki/miraan.md)
+  - [Ariwa](/wiki/ariwa.md)
 
 ## Organizations
-- [Cult of Tezeta](/wiki/cult_of_tezeta)
-- [Library of Byblas](/wiki/library_of_byblas)
+- [Cult of Tezeta](/wiki/cult_of_tezeta.md)
+- [Library of Byblas](/wiki/library_of_byblas.md)
 
 ## People
-- [Avem](/wiki/avem)
-- [Story Man](/wiki/story_man)
+- [Avem](/wiki/avem.md)
+- [Story Man](/wiki/story_man.md)
 
 ## Player Characters
-- [Noot](/wiki/noot)
-- [Jan](/wiki/jan)
-- [Meeshie](/wiki/meeshie)
-- [Alexa](/wiki/alexa)
+- [Noot](/wiki/noot.md)
+- [Jan](/wiki/jan.md)
+- [Meeshie](/wiki/meeshie.md)
+- [Alexa](/wiki/alexa.md)

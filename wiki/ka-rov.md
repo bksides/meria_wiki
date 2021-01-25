@@ -4,88 +4,85 @@ The story of the Ka-Rov was relayed orally throughout Meria for many centuries; 
 
 ## The Tragedy of the Ka-Rov
 
-> O, The River Ka!
-
-  Through writhing caverns, lazily it crawls
-
-  There is no sound to echo through the depths
-
+> O, The River Ka!<br>
+  Through writhing caverns, lazily it crawls<br>
+  There is no sound to echo through the depths<br>
   Nor sun to cast a light upon the walls
 
-> The River is the only source of light
-> a faint and pallid glow by which to see
-> at least for creatures blest with gift of sight
+> The River is the only source of light<br>
+  a faint and pallid glow by which to see<br>
+  at least for creatures blest with gift of sight
 
-> Creatures, yes, the myriad ghouls who rise
-> up from the Ooze, and drag themselves ashore
-> Only to lumber forth to their demise
+> Creatures, yes, the myriad ghouls who rise<br>
+  up from the Ooze, and drag themselves ashore<br>
+  Only to lumber forth to their demise
 
 > And lay in dark repose forevermore
 
 > O, The River Ka!
 
-> Birthplace of that abominable wretch
-> who from the Ooze did crawl some eon past,
-> and stumbled forth with broken limbs outstretched
+> Birthplace of that abominable wretch<br>
+  who from the Ooze did crawl some eon past,<br>
+  and stumbled forth with broken limbs outstretched
 
-> That Ooze, that nectar from which life can spring
-> Flowing uncontrolled and unrestrained
-> Wreaks horror far beyond imagining
+> That Ooze, that nectar from which life can spring<br>
+  Flowing uncontrolled and unrestrained<br>
+  Wreaks horror far beyond imagining
 
-> Standing three men high and bloody-red
-> A beak from its contorted skull protrudes
-> Its stench is that of hundreds freshly dead
+> Standing three men high and bloody-red<br>
+  A beak from its contorted skull protrudes<br>
+  Its stench is that of hundreds freshly dead
 
 > The Ka-Rov claws itself out of the Ooze
 
 > O, The River Ka!
 
-> With branches that meander through the void
-> The Ka-Rov takes its pick and presses on
-> Longing through its pain to be destroyed
+> With branches that meander through the void<br>
+  The Ka-Rov takes its pick and presses on<br>
+  Longing through its pain to be destroyed
 
-> The agony that creature felt, the pain
-> Which plagued its futile venture from the depths
-> Is known to none within this mortal plane
+> The agony that creature felt, the pain<br>
+  Which plagued its futile venture from the depths<br>
+  Is known to none within this mortal plane
 
-> The creature's journey ceased on that same shore
-> And tired, blind and suff'ring, down he lay
-> like all the rest, to stay forevermore
+> The creature's journey ceased on that same shore<br>
+  And tired, blind and suff'ring, down he lay<br>
+  like all the rest, to stay forevermore
 
 > The Ka-Rov found a place to make his grave
 
 > O, The River Ka!
 
-> Headstone of that poor and lonely thing
-> which in its caverns petty solace sought
-> And found no answer to its suffering
+> Headstone of that poor and lonely thing<br>
+  which in its caverns petty solace sought<br>
+  And found no answer to its suffering
 
-> It lay awaiting death, and as it groaned
-> and coughed and sputtered Ooze upon the ground
-> from its beak emerged a set of Stones
+> It lay awaiting death, and as it groaned<br>
+  and coughed and sputtered Ooze upon the ground<br>
+  from its beak emerged a set of Stones
 
-> The Ka-Rov learned that day the only thing
-> that life teaches all creatures in due time:
-> That all things end, including suffering
+> The Ka-Rov learned that day the only thing<br>
+  that life teaches all creatures in due time:<br>
+  That all things end, including suffering
 
 > The Ka-Rov lay in peace, and ceased its climb
 
 > O, The River Ka!
 
-> Which all things makes and all things then consumes,
-> Destroyed the creature's corpse, which there decayed
-> Amid the stones, thus setting life abloom
+> Which all things makes and all things then consumes,<br>
+  Destroyed the creature's corpse, which there decayed<br>
+  Amid the stones, thus setting life abloom
 
-> Another lesson, learned by lucky few:
-> That nothing is destroyed, only transformed
-> Likewise the Ka-Rov transfigured, too
+> Another lesson, learned by lucky few:<br>
+  That nothing is destroyed, only transformed<br>
+  Likewise the Ka-Rov transfigured, too
 
-> For in its corpse was born life in new forms,
-> to whom their sustenance its corpse would give,
-> And men of ambition, to whom life
+> For in its corpse was born life in new forms,<br>
+  to whom their sustenance its corpse would give,<br>
+  And men of ambition, to whom life
 
-> has yet to teach the lesson
-> that it teaches all who live.
+> has yet to teach the lesson<br>
+  that it teaches all who live.
 
 The first testament to the Ka-Rov in prose form is dated to roughly the same time and was written anonymously.  It reads:
 

@@ -5,12 +5,12 @@ The story of the Ka-Rov was relayed orally throughout Meria for many centuries; 
 ## The Tragedy of the Ka-Rov
 
 > O, The River Ka!
+  
+  Through writhing caverns, lazily it crawls
 
-> Through writhing caverns, lazily it crawls
+  There is no sound to echo through the depths
 
-There is no sound to echo through the depths
-
-Nor sun to cast a light upon the walls
+  Nor sun to cast a light upon the walls
 
 > The River is the only source of light
 > a faint and pallid glow by which to see
